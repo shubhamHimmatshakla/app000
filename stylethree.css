@@ -1,0 +1,50 @@
+
+
+#thirddiv{
+    border: 2px rgb(163, 97, 90) solid;
+    background-color: rgb(147, 197, 224);
+    height:50%;
+    width: 70%; 
+}
+#button2{
+    float: right;
+    background-color: rgb(247, 0, 0);
+    font-size: medium;}
+    
+    #image1{
+        height: 50px;
+        width: 50px;}
+
+
+    #inputthree{
+        border: 2px rgb(224, 128, 224) solid;
+    background-color: rgb(240, 201, 142);
+    width: 60%;
+    color: #000000;
+    font-size: medium;
+    text-align: center; 
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Oswald', sans-serif;
+
+}
+#inputthree::placeholder{
+    color: #000000;
+
+}
+    
+body{
+    background-image: linear-gradient(to top, #8b8be5, #a289e4, #b687e0, #ca85dc, #db83d5, #ed80c2, #f97faf, #ff829c, #ff8f7a, #ffa857, #f2c73f, #c3e548);
+}
+#forthdiv{
+    height: 20%;
+    width: 60%;
+    background-color: #c3dfec;
+}
+
+#button4{
+    background-color: #c3e548;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Oswald', sans-serif;
+   
+}
+.user_tick { width:20px; } .message_h4 { padding-left:5px;color:grey; }
